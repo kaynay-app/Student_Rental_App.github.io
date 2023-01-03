@@ -1,0 +1,3 @@
+C:\Users\kelem\source\repos\WpfApp2\obj\Debug\net5.0-windows\Rental App.csproj.AssemblyReference.cache
+C:\Users\kelem\source\repos\WpfApp2\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\kelem\source\repos\WpfApp2\obj\Debug\net5.0-windows\Rental App_MarkupCompile.cache
